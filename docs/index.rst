@@ -3,7 +3,7 @@ How to Fix Magellan GPS Not Updating Issue? 🚧📡
 
 You're all set for a road trip, plug in your Magellan GPS… and then—😩 it won’t update! If you've ever run into the frustrating problem of your **Magellan GPS not updating**, you're not alone. But don’t worry — this guide will walk you through the reasons, solutions, and tips to get your GPS back on track. 🛣️🧭
 
-.. image:: start.png
+.. image:: update-now.gif
    :alt: My Project Logo
    :width: 400px
    :align: center
